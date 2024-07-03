@@ -14,11 +14,11 @@ This section trains and evaluates various machine learning models to optimize th
 
 
 ## Training and Evaluation of Model-Free Method Using Machine Learning Models
-#### In this section, we utilize four types of learning models: 
-#### ensemble learning models (Random Forest, Gradient Boosting),
-#### regularization-based models (Ridge, Lasso Regression),
-#### kernel-based models (Support Vector Regressor, Gaussian Process Regressor),
-#### neural network models (Bayesian Neural Network, Recurrent Neural Network)
+In this section, we utilize four types of learning models: 
+ensemble learning models (Random Forest, Gradient Boosting),
+regularization-based models (Ridge, Lasso Regression),
+kernel-based models (Support Vector Regressor, Gaussian Process Regressor), and 
+neural network models (Bayesian Neural Network, Recurrent Neural Network)
 
 ### Gradient Boosting
 ![image](https://github.com/poyuhs/model-free-robotics/blob/main/result/fig_Gradient_Boosting_results.png)
@@ -28,10 +28,10 @@ This section trains and evaluates various machine learning models to optimize th
 
 
 ## Non-linear Transfer Function Identification
-#### we use polynomial regression to identify optimized tranfer functions for bionic robot control.
-#### Let's visualize in 3D and compare it with the original ones.
+We use polynomial regression to identify optimized tranfer functions for bionic robot control.
+Let's visualize in 3D and compare it with the original ones.
 
 ### Optimized transfer functions
-![image](https://github.com/poyuhs/model-free-robotics/blob/main/result/fig_Polynomial_Transfer_Functions_3D.png
+![image](https://github.com/poyuhs/model-free-robotics/blob/main/result/fig_Polynomial_Transfer_Functions_3D.png)
 ### Original transfer functions
 ![image](https://github.com/poyuhs/model-free-robotics/blob/main/result/fig_Original_Transfer_Functions_3D.png)
