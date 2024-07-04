@@ -4,7 +4,6 @@ The training dataset is constructed using physics-based simulation data (Grassho
 Explicit demonstrations can be found in our research paper:
 [Comparative Evaluation of Learning Models for Bionic Robots: Non-Linear Transfer Function Identifications](https://arxiv.org/abs/2407.02428)
 
-### Start with the "training.ipynb" file
 
 ## Performance of Robot Motions Using Orginial Transfer Function
 ### Deviations between desired and actual yaw angles (horizontal movements)
