@@ -1,7 +1,10 @@
 # model-free-robotics
-This repo trains and evaluates various machine learning models to optimize the control of bionic tendon-driven robots, comparing their accuracy and computational efficiency.
+This repo trains and evaluates various machine learning models (using Jupyter Notebook) to optimize the control of bionic tendon-driven robots, comparing their accuracy and computational efficiency.
+The training dataset is constructed using physics-based simulation data (Grasshopper in Rhino).
 Explicit demonstrations can be found in our research paper:
 [Comparative Evaluation of Learning Models for Bionic Robots: Non-Linear Transfer Function Identifications](https://arxiv.org/abs/2407.02428)
+
+### Start with the "training.ipynb" file
 
 ## Performance of Robot Motions Using Orginial Transfer Function
 ### Deviations between desired and actual yaw angles (horizontal movements)
