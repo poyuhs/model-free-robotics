@@ -1,5 +1,7 @@
 # model-free-robotics
-This section trains and evaluates various machine learning models to optimize the control of bionic tendon-driven robots, comparing their accuracy and computational efficiency.
+This repo trains and evaluates various machine learning models to optimize the control of bionic tendon-driven robots, comparing their accuracy and computational efficiency.
+Explici demonstrations can be found in our research paper:
+[a link](https://arxiv.org/abs/2407.02428)
 
 ## Performance of Robot Motions Using Orginial Transfer Function
 ### Deviations between desired and actual yaw angles (horizontal movements)
